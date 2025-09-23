@@ -1,16 +1,34 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy [Daniela Yamil Eula]
 
-<!--
-**EulaDaniela/EulaDaniela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+Desarrolladora apasionada por crear soluciones web modernas y funcionales. Especializada en JavaScript y Python, con experiencia en desarrollo completo desde frontend hasta deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías que manejo
+
+**Frontend:**
+- React, JavaScript (ES6+)
+- HTML5, CSS3, Sass, Bootstrap
+- Responsive Design
+
+**Backend:**
+- Python (Flask, FastAPI)
+- SQLAlchemy, SQLite
+- APIs REST
+
+**Herramientas:**
+- Git, npm, Figma
+- Render (deployment)
+
+### 🌟 Proyectos destacados
+
+- **ReBusque Marketplace** - Backend completo con autenticación JWT y búsqueda avanzada
+- **Star Wars Blog** - App React con consumo de API y sistema de favoritos
+- **Gestión de Contactos** - CRUD con Context API y diseño personalizado
+
+### 📫 Conectemos
+- LinkedIn: [www.linkedin.com/in/euladaniela]
+- Email: euladanielayamil@gmail.com
+
+---
+*"La mejor manera de predecir el futuro es creándolo"* ✨
