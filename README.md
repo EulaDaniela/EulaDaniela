@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Daniela Yamil Eula]
+# ¡Hola! 👋 Soy Daniela Yamil Eula
 
 ## 💻 Full Stack Developer
 
@@ -27,8 +27,5 @@ Desarrolladora apasionada por crear soluciones web modernas y funcionales. Espec
 - **Gestión de Contactos** - CRUD con Context API y diseño personalizado
 
 ### 📫 Conectemos
-- LinkedIn: [www.linkedin.com/in/euladaniela]
+- LinkedIn: www.linkedin.com/in/euladaniela
 - Email: euladanielayamil@gmail.com
-
----
-*"La mejor manera de predecir el futuro es creándolo"* ✨
